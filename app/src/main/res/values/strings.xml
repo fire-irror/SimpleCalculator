@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="edit1_hint">정수1</string>
+    <string name="edit2_hint">정수2</string>
+    <string name="btn_plus">정수1</string>
+    <string name="btn_minus">정수1</string>
+    <string name="btn_multiply">정수1</string>
+    <string name="btn_divide">정수1</string>
+
+</resources>
